@@ -19,14 +19,6 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Pablo GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yssertz&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yssertz&layout=compact&theme=radical)
-
----
-
-## 🔥 Sequência de Commits
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=yssertz&theme=radical)
 
 ---
