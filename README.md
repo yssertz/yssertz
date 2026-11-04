@@ -83,8 +83,6 @@ Desenvolvimento de aplicações com interfaces modernas, integração com banco 
 
   ![Linguagens](https://github-stats-extended.vercel.app/api/top-langs/?username=yssertz&layout=compact&theme=tokyonight&hide_border=true)
 
-  ![Atividade](https://github-readme-activity-graph.vercel.app/graph?username=yssertz&theme=tokyo-night&hide_border=true&area=true)
-
 </div>
 
 
