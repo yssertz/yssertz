@@ -72,19 +72,21 @@ Desenvolvimento de aplicações com interfaces modernas, integração com banco 
 
 ---
 
-### Estatísticas do GitHub
+
+---
+
+### 📊 Estatísticas do GitHub
 
 <div align="center">
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yssertz&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+  ![Estatísticas](https://github-stats-extended.vercel.app/api?username=yssertz&show_icons=true&theme=tokyonight&hide_border=true)
 
-  ![Linguagens mais utilizadas](https://github-readme-stats.vercel.app/api/top-langs/?username=yssertz&layout=compact&theme=tokyonight&hide_border=true)
+  ![Linguagens](https://github-stats-extended.vercel.app/api/top-langs/?username=yssertz&layout=compact&theme=tokyonight&hide_border=true)
 
-  ![Gráfico de contribuições](https://github-readme-activity-graph.vercel.app/graph?username=yssertz&theme=tokyo-night&hide_border=true&area=true)
+  ![Atividade](https://github-readme-activity-graph.vercel.app/graph?username=yssertz&theme=tokyo-night&hide_border=true&area=true)
 
 </div>
 
----
 
 <div align="center">
 
